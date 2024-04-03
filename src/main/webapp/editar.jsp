@@ -15,8 +15,7 @@
                     <style>
                 
         .mi-div {
-                        width: 200px;
-            height: 100px;
+
             border: 2px solid #ccc; /* Agrega un borde de 2px de ancho, sólido y color gris claro */
             padding: 20px; /* Agrega un relleno interno de 20px */
         }
